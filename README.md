@@ -3,8 +3,7 @@
 write my report here
 
 code to do still:
-add remove dirty spots to a star
-add cost plus to a star?
+add remove dirty spots to a star (use a method like noObstacle)
 
 references
 https://www.geeksforgeeks.org/python/a-search-algorithm-in-python/ 
