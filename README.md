@@ -6,6 +6,7 @@
 - I opted to not use the provided starter code as I ended up confusing myself more trying to work out what to do for each method
 - I believe this confusion came from it not being similar to code I have written previously
 - Due also to this confusion, I spent far to long trying to unconfuse myself and ended up wasting a lot of time and now my project is not as complete as I would like it to be
+- I also added my vaccuum_world, even though it is a terrible mess of code, I believe it shows my thought process throughout this project and kind of what my understanding of it was at the time, it is not my final draft but rather the steps leading to what would become the Environment 
 
 # depth-first:
 - This is entirely in one method
